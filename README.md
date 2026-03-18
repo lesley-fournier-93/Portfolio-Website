@@ -46,4 +46,4 @@ HTML5
 CSS3 (Animations, Flexbox, Transforms)
 JavaScript (DOM + Animations)
 
-Create with ♥️ by Lesley Fournier
+## Create with ♥️ by Lesley Fournier
